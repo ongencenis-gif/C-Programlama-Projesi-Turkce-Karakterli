@@ -1,4 +1,4 @@
-
+# 🚀 İletişim ve Sunum Teknikleri - Türkçe Çıktı Karşılama Projesi
 Bu proje, C programlama dili kullanılarak Windows platformu için geliştirilmiş bir konsol uygulamasıdır. Temel amacı, Windows konsolunda sıkça karşılaşılan **Türkçe karakter (ş, ı, ğ, ç, ö, ü)** bozulma sorununu UTF-8 kod sayfası kullanarak aşmak ve kullanıcıyı profesyonel bir mesajla karşılamaktır.
 
 ---
